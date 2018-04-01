@@ -1,0 +1,12 @@
+# Created by .gitignore support plugin (hsz.mobi)
+
+.idea
+*.pyc
+*.bak
+*.swp
+[#]*[#]
+.#*
+GTAGS
+GPATH
+GRTAGS
+GSYMS
